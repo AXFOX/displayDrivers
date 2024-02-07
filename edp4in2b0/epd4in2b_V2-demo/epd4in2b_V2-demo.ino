@@ -2,7 +2,7 @@
 #include "DEV_Config.h"
 #include "EPD_4in2b_V2.h"
 #include "GUI_Paint.h"
-#include "imagedata.h"
+#include "ImageData.h"
 #include <stdlib.h>
 
 /* Entry point ----------------------------------------------------------------*/
